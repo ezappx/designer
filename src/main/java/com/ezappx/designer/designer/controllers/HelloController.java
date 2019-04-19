@@ -1,6 +1,6 @@
-package com.ezappx.designer.controllers;
+package com.ezappx.designer.designer.controllers;
 
-import com.ezappx.designer.services.HelloService;
+import com.ezappx.designer.designer.services.HelloService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
